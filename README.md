@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 📫 **Connect with me**:  
 - 📧 [dantresoumya@gmail.com](mailto:dantresoumya@gmail.com)  
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/soumya-dantre-060752229/))  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/soumya-dantre-060752229/)  
 - 💻 [GitHub](https://github.com/Soumyadantre)  
 - 🌐 [Portfolio Website](https://Soumyadantre.github.io)  
 
