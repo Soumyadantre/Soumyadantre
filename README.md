@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 ---
 
 📫 **Connect with me**:  
-- 📱 +91-8461930662  
 - 📧 [dantresoumya@gmail.com](mailto:dantresoumya@gmail.com)  
 - 🔗 [LinkedIn]((https://www.linkedin.com/in/soumya-dantre-060752229/))  
 - 💻 [GitHub](https://github.com/Soumyadantre)  
@@ -62,5 +61,5 @@ Here are some ideas to get you started:
 
 
 📫 **Connect with me**:  
-[LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your@email.com) | [Portfolio Website](https://your-username.github.io)
+[LinkedIn]((https://www.linkedin.com/in/soumya-dantre-060752229/)) | [Email](mailto:dantresoumya@gmail.com) | [Portfolio Website](https://your-username.github.io)
 
