@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub Stats  
-![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumyadantre&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadantre&layout=compact&theme=tokyonight)  
 
 ---
 
