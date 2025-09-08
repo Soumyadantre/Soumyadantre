@@ -31,13 +31,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 📌 Projects  
-🔹 [**Mental Health Prediction App**](https://github.com/your-repo) – Flask app with ML model (76% accuracy) deployed on PythonAnywhere  
-🔹 [**Chat Application**](https://github.com/your-repo) – Real-time chat app using Java Socket Programming + Swing GUI  
-🔹 [**Music Web App**](https://github.com/your-repo) – Responsive music player with interactive controls (HTML, CSS, JS)  
-🔹 [**Social Network Analysis**](https://github.com/your-repo) – Graph-based insights into influence and community detection  
 
----
+
+
 
 ### 🏆 Achievements  
 - **GATE CS 2025 Qualified**  
